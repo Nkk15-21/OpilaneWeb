@@ -51,8 +51,8 @@
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/About">Meie õpilased</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact">Lisa õpilane</a></li>
 
-                            <li class="nav-item"><a class="nav-link" runat="server" href="~/About">Meie õpilased</a></li>
-                                <li class="nav-item"><a class="nav-link" runat="server" href="~/About">Meie õpilased</a></li>
+                            <li class="nav-item"><a class="nav-link" runat="server" href="~/About2">Rühmad</a></li>
+                                <li class="nav-item"><a class="nav-link" runat="server" href="~/About3">Autod</a></li>
                     </ul>
                 </div>
             </div>
